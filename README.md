@@ -1,2 +1,2 @@
 # Excel_Analysis
-Análisis de datos con herramienta en Excel.
+Analitica de datos con herramienta Excel.
